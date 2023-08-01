@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/poloju shivacharan" target="blank"> 
+<a href="https://www.linkedin.com/in/poloju-shivacharan-52111b1b7/" target="blank"> 
     <img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>  
 </p>
